@@ -5,9 +5,7 @@ An AI-powered document Q&A chatbot that lets users upload any PDF and ask questi
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here for Live Demo](https://rag-document-chatbotgit-dqeamxetxufcy6vzaj7q9s.streamlit.app)
-
-rag-document-chatbotgit-dqeamxetxufcy6vzaj7q9s.streamlit.app
+🔗 [Click here for Live Demo](https://rag-document-chatbotgit-dqeamxetxufcy6vzaj7q9s.streamlit.app) 
 
 ---
 
